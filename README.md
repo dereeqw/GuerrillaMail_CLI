@@ -155,7 +155,7 @@ Archivo HTML (o Enter para cancelar): 1
 
 ¿Adjuntar archivos? [Si/no]: no
 
-De: Banco Ejemplo <tu@email.com>
+De: Ejemplo <tu@email.com>
 Para: cliente@correo.com
 Asunto: Confirma tu cuenta
 
