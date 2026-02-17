@@ -200,5 +200,5 @@ Esta herramienta es para uso personal y educativo. No está pensada para spam, p
 
 ## Créditos
 
-Desarrollado por **Pygramer**.  
+Desarrollado por **deereqw**.  
 Basado en la [API pública de Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html).
