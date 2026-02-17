@@ -31,7 +31,7 @@ Esta herramienta combina dos cosas: los emails temporales de [Guerrilla Mail](ht
 Necesitas Python 3.8 o superior.
 
 ```bash
-git clone https://github.com/tuusuario/GuerrillaMail_CLI.git
+git clone https://github.com/dereeqw/GuerrillaMail_CLI.git
 cd GuerrillaMail_CLI
 pip install -r requirements.txt
 ```
