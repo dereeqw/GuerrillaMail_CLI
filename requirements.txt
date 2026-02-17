@@ -1,0 +1,28 @@
+# Guerrilla Mail CLI - Dependencies
+# Install with: pip install -r requirements.txt
+
+# HTTP Requests
+requests>=2.31.0
+
+# Interactive CLI
+prompt-toolkit>=3.0.43
+
+# Rich Terminal Output
+rich>=13.7.0
+
+# Email handling (built-in Python modules, no installation needed)
+# - smtplib
+# - email.mime
+# - ssl
+
+# Database (built-in Python module, no installation needed)
+# - sqlite3
+
+# Other built-in modules used:
+# - asyncio
+# - os
+# - json
+# - datetime
+# - pathlib
+# - typing
+# - glob
