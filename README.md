@@ -142,7 +142,7 @@ El prompt siempre muestra qué buzón tienes activo. Los correos se numeran del 
 ```
 > send
 
-Nombre del remitente [Tu Nombre]: Banco Ejemplo
+Nombre del remitente [Tu Nombre]: Ejemplo
 Para: cliente@correo.com
 Asunto: Confirma tu cuenta
 Contenido: [t]exto / [h]tml inline / [f]ile html? f
